@@ -1,15 +1,13 @@
 [![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thomas Olesen</h1>
 <h3 align="center">I'm studying computer science in Denmark at EASV "Erhvervsakademi SydVest"</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVzdHhqcW5zZWd6NXNuOG5pcXpoY3ltNjJsMHd5YzAwcXh0cTBtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thom625b&label=Profile%20views&color=0e75b6&style=flat" alt="thom625b" /> </p>
 
 - 🔭 I’m currently working on [A webshop for Dunder Mufflin Inc (School assignment)](https://github.com/thom625b/Compulsory-Assignment1-3Semester)
 
 - 🌱 I’m currently learning **C#, Typescript, React**
-
-- ⚡ Fun fact **I'm funny & tall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
