@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thom625b&label=Profile%20views&color=0e75b6&style=flat" alt="thom625b" /> </p>
 
-- 🔭 I’m currently working on Dead Pigeon Game(School assignment) & Boardgame Application (Home project)
+- 🔭 I’m currently working on:
+  - Dead Pigeon Game(School assignment) 
+  - Boardgame Application (Home project)
 
 - 🌱 I’m currently learning **C#, Typescript, React**
 
