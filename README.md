@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on:
   - Boardgame Application (Home project)
 
-- 🌱 I’m currently learning **C#, Typescript, React**
+- 🌱 I’m currently learning and working in **C#, Typescript, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
