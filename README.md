@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on:
   - Boardgame Application (Home project)
+  - Fridge Application (Home project)
 
 - 🌱 I’m currently learning and working in **C#, Typescript, React**
 
