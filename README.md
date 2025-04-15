@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thom625b&label=Profile%20views&color=0e75b6&style=flat" alt="thom625b" /> </p>
 
 - 🔭 I’m currently working on:
+  - BrodBuddy (School project)
   - Boardgame Application (Home project)
   - Fridge Application (Home project)
 
